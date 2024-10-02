@@ -1,29 +1,64 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'pergunta 1',
+    ' Quem foi a primeira pessoa a viajar no Espaço?',
+    'Yuri Gagarin'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'pergunta 2',
+    'Qual a montanha mais alta do mundo?',
+    'Monte Everest'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'pergunta 3',
+    'Onde se localiza Machu Picchu?',
+    'Peru'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'pergunta 4',
+    ' Que país tem o formato de uma bota?',
+    ' Itália'
 )
 
 criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
+    'pergunta 5',
+    ' Quem inventou a lâmpada?',
+    'Thomas Edison'
+
+    
 )
+
+criaCartao(
+    'pergunta 6',
+    'A que temperatura a água ferve?',
+    '100 ºC'
+)
+
+criaCartao(
+    'pergunta 7',
+    ' Quais são as fases da Lua?',
+    'Nova, crescente, cheia e minguante'
+)
+
+criaCartao(
+    'pergunta 8',
+    'Nova, crescente, cheia e minguante',
+    ' 206'
+)
+
+criaCartao(
+    ' Pergunta 9',
+    'Qual o maior planeta do sistema solar?',
+    'Júpiter'
+
+)
+
+criaCartao(
+    'pergunta 10',
+    'Qual o planeta mais próximo do Sol?',
+    'Mercúrio'
+)
+
+
